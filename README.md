@@ -55,7 +55,7 @@ To get this project up and running on your local machine, follow these steps:
 ## Contact
 If you have any questions or comments about the NextWork Web Project, please contact: <br>
 Andrei Morosan - [Contact over e-mail here!](mailto:your.email@email.com) <br>
-Linkedin: [Connect on Linkedin](https://www.linkedin.com/in/am2994/)
+Linkedin: [Connect on Linkedin](https://www.linkedin.com/in/am2994/) <br>
 Find all I am doing on Gitbook! - [Check this here!](https://andrei-sn0wlynx-morosan.gitbook.io/lair)
 
 <br>
